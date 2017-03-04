@@ -4,6 +4,8 @@ title: "This is an Amazing Experience you won't regret"
 date: 2017-03-03
 ---
 
+<img src="/assets/coding.jpg" alt="alt text" width="100" height="100">
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus, turpis eget scelerisque ultricies, elit nisl tincidunt justo, sit amet pharetra risus ex porta lectus. Donec mattis ullamcorper urna, non placerat mauris. Duis nec porta ligula. Sed scelerisque laoreet urna nec vestibulum. Fusce fermentum sapien justo, eget pellentesque dui commodo ac. Mauris pretium urna et fermentum congue. Curabitur hendrerit et nunc vel dictum. Aliquam at justo varius, ultricies purus eget, efficitur arcu. Maecenas non venenatis nisi. Maecenas vitae orci non tellus vestibulum accumsan a sit amet nisi.
 
 Aenean vel elementum felis. Nulla eleifend bibendum nulla, sed rhoncus ante tempor quis. Quisque ultrices lectus at sem convallis eleifend. In dolor turpis, egestas a sollicitudin at, eleifend non neque. Integer vehicula pulvinar pulvinar. In at velit a mi dictum tincidunt porttitor eget elit. Suspendisse in nunc eu ligula dignissim venenatis. Mauris arcu enim, malesuada id nunc vitae, luctus porta elit. In a venenatis orci. Pellentesque fermentum, metus et sagittis pretium, turpis purus luctus diam, et feugiat mauris est at massa. Morbi sagittis libero nec aliquam sagittis. Morbi at arcu nec nisl porttitor luctus rhoncus quis nibh. Quisque ornare lectus nulla, commodo tristique enim dictum nec. Mauris imperdiet elit id commodo tempus. Praesent ut blandit lacus.

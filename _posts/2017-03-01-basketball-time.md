@@ -1,1 +1,18 @@
-d
+---
+layout: post
+title: "I Played Basketball!!!"
+date: 2017-03-01
+---
+<center><img src="/assets/basketball.jpg" alt="alt text" width="800" height="500"></center>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus, turpis eget scelerisque ultricies, elit nisl tincidunt justo, sit amet pharetra risus ex porta lectus. Donec mattis ullamcorper urna, non placerat mauris. Duis nec porta ligula. Sed scelerisque laoreet urna nec vestibulum. Fusce fermentum sapien justo, eget pellentesque dui commodo ac. Mauris pretium urna et fermentum congue. Curabitur hendrerit et nunc vel dictum. Aliquam at justo varius, ultricies purus eget, efficitur arcu. Maecenas non venenatis nisi. Maecenas vitae orci non tellus vestibulum accumsan a sit amet nisi.
+
+Aenean vel elementum felis. Nulla eleifend bibendum nulla, sed rhoncus ante tempor quis. Quisque ultrices lectus at sem convallis eleifend. In dolor turpis, egestas a sollicitudin at, eleifend non neque. Integer vehicula pulvinar pulvinar. In at velit a mi dictum tincidunt porttitor eget elit. Suspendisse in nunc eu ligula dignissim venenatis. Mauris arcu enim, malesuada id nunc vitae, luctus porta elit. In a venenatis orci. Pellentesque fermentum, metus et sagittis pretium, turpis purus luctus diam, et feugiat mauris est at massa. Morbi sagittis libero nec aliquam sagittis. Morbi at arcu nec nisl porttitor luctus rhoncus quis nibh. Quisque ornare lectus nulla, commodo tristique enim dictum nec. Mauris imperdiet elit id commodo tempus. Praesent ut blandit lacus.
+
+Nullam blandit varius dui vel faucibus. Sed vestibulum nibh eu nunc dignissim auctor. Morbi risus urna, consectetur vel nibh vitae, sagittis scelerisque diam. Nunc tortor orci, suscipit sit amet diam pulvinar, condimentum interdum massa. Phasellus ullamcorper leo nec dolor imperdiet, sed scelerisque odio egestas. Aenean placerat orci vel lectus faucibus fringilla. Donec dapibus, ante sed euismod ornare, lectus orci laoreet enim, non accumsan dui mauris non purus. Mauris rhoncus sodales ligula eu scelerisque. Donec at nisl metus. Vestibulum lacinia nunc quis varius elementum. Pellentesque mattis nibh efficitur, aliquam mauris sed, tempus dui. Sed id volutpat eros, sit amet consectetur nibh. Pellentesque feugiat massa eu velit eleifend consectetur et at metus. Sed id vehicula lacus, eu condimentum odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed in enim eu justo rhoncus euismod.
+
+Donec sed sodales velit. Curabitur arcu eros, consectetur ac magna condimentum, efficitur viverra felis. Integer feugiat sem et sodales maximus. Pellentesque ex dui, vehicula at scelerisque sed, imperdiet a purus. Suspendisse et tristique lorem. In a faucibus tortor. Fusce sit amet tempor quam. Ut id ex nec sem facilisis posuere eget eu diam. Praesent vel enim sit amet libero hendrerit elementum nec sed purus. Donec non lectus vitae mauris porttitor ullamcorper at at quam.
+
+Vestibulum quis odio sed nisi iaculis ultricies. In hac habitasse platea dictumst. Vivamus sit amet convallis ex, eu efficitur sem. Ut id volutpat magna. Morbi maximus maximus urna eu cursus. In hendrerit malesuada lectus, ut rutrum justo rutrum nec. Donec convallis erat sit amet magna porta tristique vestibulum ut nulla. Cras feugiat consequat est. Nunc ultricies posuere posuere. Integer condimentum odio libero, et mattis est consequat nec. Nulla ex ante, sollicitudin vel rutrum non, bibendum sit amet nibh. Nam at ligula ac velit efficitur viverra. Morbi pretium consectetur metus, at laoreet augue ullamcorper in. Proin eu molestie velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur placerat et est nec venenatis.
+
+Powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.

@@ -3,7 +3,7 @@ layout: post
 title: "My Hobby is Listening to Music"
 date: 2017-03-02
 ---
-![My helpful screenshot](/dennymrh.github.io/assets/Bart.jpg)
+![My helpful screenshot](/assets/Bart.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus, turpis eget scelerisque ultricies, elit nisl tincidunt justo, sit amet pharetra risus ex porta lectus. Donec mattis ullamcorper urna, non placerat mauris. Duis nec porta ligula. Sed scelerisque laoreet urna nec vestibulum. Fusce fermentum sapien justo, eget pellentesque dui commodo ac. Mauris pretium urna et fermentum congue. Curabitur hendrerit et nunc vel dictum. Aliquam at justo varius, ultricies purus eget, efficitur arcu. Maecenas non venenatis nisi. Maecenas vitae orci non tellus vestibulum accumsan a sit amet nisi.
 
